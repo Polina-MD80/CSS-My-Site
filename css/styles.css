@@ -1,0 +1,107 @@
+a{
+  color: #11999E;
+  margin-bottom: 2rem;
+  text-decoration: none;
+}
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Outfit', sans-serif;
+
+}
+
+h1 {
+  font-size: 4em;
+  margin: 2.5rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 0.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.4rem;
+    color: #66BFBF;
+    font-weight: normal;
+    line-height: 0.5;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+
+}
+
+.top-container {
+  background-color: #C8F2EF;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 250px;
+  left: 20%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skill-one {
+  width: 25%;
+float: left;
+margin-right: 2em;
+
+}
+
+.skill-two{
+  float: right;
+    width: 25%;
+}
+.prof-picture{
+  border-radius: 100%;
+}
+.bottom-container {
+  background-color: #C8F2EF;
+  padding-top: 2rem;
+  padding-bottom:  2rem;
+    margin-top: 2rem;
+}
+.get-in-touch{
+  margin-top: 0;
+  padding-top: 2rem;
+}
+
+.before-contact{
+  margin-bottom: 0;
+}
+.copi{
+  margin-bottom: 0;
+}
+hr {
+  width: 10%;
+  border: 10px dotted;
+  border-style: none none dotted;
+  color: grey
+}
+.btn{
+  background-color: #11999E;
+  color: white;
+  border-radius: 3px;
+}
+.footer-link{
+  margin: 2rem;
+}
+.get-in-touch{
+  margin-top: 2rem;
+}
