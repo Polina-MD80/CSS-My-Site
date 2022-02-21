@@ -37,6 +37,13 @@ h3 {
   position: relative;
   padding-top: 100px;
 }
+.middle-container{
+  background-color: #D1D1D1;
+}
+
+.contact-me{
+  padding-bottom: 2em;
+}
 
 
 
@@ -73,9 +80,10 @@ margin-right: 2em;
 }
 .bottom-container {
   background-color: #C8F2EF;
-  padding-top: 2rem;
+  padding-top: 4rem;
   padding-bottom:  2rem;
-    margin-top: 2rem;
+    margin-top: 0;
+
 }
 .get-in-touch{
   margin-top: 0;
