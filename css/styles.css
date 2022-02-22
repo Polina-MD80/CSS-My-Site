@@ -31,6 +31,9 @@ h3 {
   color: #11999E;
 
 }
+p{
+  line-height: 2;
+}
 
 .top-container {
   background-color: #C8F2EF;
@@ -58,11 +61,15 @@ h3 {
   right: 20%;
   top: 30px;
 }
+
+.skills{
+  padding: 2em 0 2em 0;
+}
 .skill-row{
   width: 50%;
-  margin: 100px auto 100px auto;
+  margin: 32px auto 32px auto;
   text-align: left;
-  line-height: 2;
+
 }
 .skill-one {
   width: 25%;
@@ -99,17 +106,30 @@ margin-right: 2em;
 hr {
   width: 10%;
   border: 10px dotted;
-  border-style: none none dotted;
+  border-bottom: none;
   color: grey
 }
 .btn{
   background-color: #11999E;
   color: white;
-  border-radius: 3px;
+  border-radius: 10px;
+  margin: 2em auto;
+  padding: 2px;
+  font-size: 2em;
+}
+.btn:hover{
+  background-color: #00B4D8;
 }
 .footer-link{
   margin: 2rem;
 }
 .get-in-touch{
   margin-top: 2rem;
+}
+.profile{
+  padding: 2em 0 2em 0;
+}
+.bio{
+  width: 40%;
+  margin: 2em auto;
 }
