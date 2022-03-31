@@ -43,7 +43,7 @@ p{
 
 .top-container {
   background-image: url("../images/bg.png");
-  /* background-color: #C8F2EF; */
+  background-position: center 0;
   position: relative;
   padding-top: 100px;
 }
